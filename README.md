@@ -40,7 +40,7 @@ The objective of this project is to:
 ---
 
 ## 📷 Dashboard Preview
-![Electric Vehicle Dashboard](Screenshot%202025-08-14%20172235.png)
+![image alt](https://github.com/MithinRC/Electric-Vehicle-Analysis/blob/d226fdb9cc62c9e5ec02dc2a4b07fdb53c14edf2/Screenshot%202025-08-14%20172235.png)
 
 ---
 
@@ -58,3 +58,9 @@ The objective of this project is to:
 2. Use filter panels to view data by **City**, **EV Type**, and **Electric Utility**.
 3. Interact with visualizations to explore insights.
 
+---
+
+## 📬 Contact
+**Author:** Mithin R C  
+**Email:** mithinchoodappa@gmail.com  
+**LinkedIn:** linkedin.com/in/mithin-rc 

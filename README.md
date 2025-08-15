@@ -40,7 +40,7 @@ The objective of this project is to:
 ---
 
 ## 📷 Dashboard Preview
-![image alt](https://github.com/MithinRC/Electric-Vehicle-Analysis/blob/d226fdb9cc62c9e5ec02dc2a4b07fdb53c14edf2/Screenshot%202025-08-14%20172235.png)
+![image alt](https://github.com/MithinRC/Electric-Vehicle-Analysis/blob/2803f48f47f33b0c7ab45e794969711ce2668954/Screenshot%202025-08-15%20145446.png)
 
 ---
 
